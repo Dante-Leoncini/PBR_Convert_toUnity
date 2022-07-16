@@ -1,4 +1,8 @@
-# PBR_Convert_toUnity
-Merge the textures into a single one ready to use in Unity HDRP. (Metallic, Occlusion, Detail Mask and Smoothness)
+# Ingles: PBR Convert to Unity
+Merge the textures into a single one ready to use in **Unity HDRP**. (Metallic, Occlusion, Detail Mask and Smoothness)
 
-![Example](http://url/to/img.png)
+![Example]([http://url/to/img.png](https://raw.githubusercontent.com/Dante-Leoncini/PBR_Convert_toUnity/main/unity_example.jpeg))
+
+# Español: PBR Conversor para Unity
+Combina las texturas en una sola, lista para usar en **Unity HDRP**. (Metallic, Occlusion, Detail Mask y Smoothness)
+![Example]([http://url/to/img.png](https://raw.githubusercontent.com/Dante-Leoncini/PBR_Convert_toUnity/main/unity_example.jpeg))
