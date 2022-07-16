@@ -19,11 +19,14 @@ In **Ubuntu** it is installed with the following command: **sudo apt install pyt
 **1)** Open the Script from the terminal with **Python 3.** example: **"python3 Blender\ PBR\ to\ HDRP.py"** 
 ![Example](https://raw.githubusercontent.com/Dante-Leoncini/PBR_Convert_toUnity/main/Documentacion/doc1.png)
 
-**2)** You will see the following window. **Drag** any of your textures to the window. You don't need to have them all. Automatically the program will show how many **textures it found** and their **name.** If everything is correct, click on **"crear maskMap"**
+You will see the following window.
 ![Example](https://raw.githubusercontent.com/Dante-Leoncini/PBR_Convert_toUnity/main/Documentacion/doc2.png)
 
-If everything went well, the **MaskMap** texture will appear in the **PNG** format
+**2)** **Drag** any of your textures to the window. You don't need to have them all. Automatically the program will show how many **textures it found** and their **name.** If everything is correct, click on **"crear maskMap"**
 ![Example](https://raw.githubusercontent.com/Dante-Leoncini/PBR_Convert_toUnity/main/Documentacion/doc3.png)
+
+If everything went well, the **MaskMap** texture will appear in the **PNG** format
+![Example](https://raw.githubusercontent.com/Dante-Leoncini/PBR_Convert_toUnity/main/Documentacion/doc4.png)
 
 The Script is not finished and may need to polish a little more
 
@@ -48,10 +51,13 @@ En **Ubuntu** se instala con el siguiente comando: **sudo apt install python-ope
 **1)** Abra el Script desde la terminal con **Python 3.** ejemplo: **"python3 Blender\ PBR\ to\ HDRP.py"** 
 ![Example](https://raw.githubusercontent.com/Dante-Leoncini/PBR_Convert_toUnity/main/Documentacion/doc1.png)
 
-**2)** Vera la siguiente ventana. **Arrastre** cualquiera de sus texturas a la ventana. No hace falta tenerlas todas. Automaticamente el programa mostrara cuantas **texturas encontro** y su **nombre.** Si todo es correcto haga click en **"crear maskMap"**
+Vera la siguiente ventana:
 ![Example](https://raw.githubusercontent.com/Dante-Leoncini/PBR_Convert_toUnity/main/Documentacion/doc2.png)
 
-Si todo salio bien, aparecera en la carpeta la textura **MaskMap** en formato **PNG**
+**2)** **Arrastre** cualquiera de sus texturas a la ventana. No hace falta tenerlas todas. Automaticamente el programa mostrara cuantas **texturas encontro** y su **nombre.** Si todo es correcto haga click en **"crear maskMap"**
 ![Example](https://raw.githubusercontent.com/Dante-Leoncini/PBR_Convert_toUnity/main/Documentacion/doc3.png)
+
+Si todo salio bien, aparecera en la carpeta la textura **MaskMap** en formato **PNG**
+![Example](https://raw.githubusercontent.com/Dante-Leoncini/PBR_Convert_toUnity/main/Documentacion/doc4.png)
 
 El Script no esta terminado y puede faltarle pulir un poco mas
